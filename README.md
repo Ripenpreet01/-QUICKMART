@@ -1,7 +1,3 @@
 # QUICKMART
-Design of Android Application (Project)
-Team Members 
-Sukhmanjot Kaur Gill (1896450)
-Ripenpreet Kaur      (1896417)
-Rohit Jaswal         (1896331)
-Savita               (1896485)
+
+This project a a android application for shopping made on Android Studio and was developed as a part of project while studying Implementing Android Development
